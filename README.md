@@ -53,12 +53,6 @@ Also you can talk in our forum: [http://community.heltec.cn/](http://community.h
 
 &nbsp;
 
-## Contact us
-- **Website：[https://heltec.org](https://heltec.org/)**
-- **Document Page: [https://docs.heltec.cn](https://docs.heltec.cn)**
-- **Forum: [http://community.heltec.cn/](http://community.heltec.cn/)**
-- **Twitter: [https://twitter.com/HeltecOrg](https://twitter.com/HeltecOrg)**
-- **Face Book: [https://www.facebook.com/heltec.automation.5](https://www.facebook.com/heltec.automation.5)**
 
 &nbsp;
 
